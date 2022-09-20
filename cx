@@ -1,0 +1,287 @@
+#EXTINF:-1,TVE 1
+ rtmp://$OPT:rtmp-raw=rtmp://46.23.64.108/live playpath=ttvee1?id=10479  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/ttvee1/1/650/400 conn=S:OK --live
+  
+ #EXTINF:-1,ANTENA 3
+ rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live  playpath=stream-antena3_1  swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nocache=200  live=1 pageUrl=http://www.atresplayer.com/directos/television/antena3/
+  
+ #EXTINF:-1,CUATRO
+ http://telecinco-channel6-nogeo.hls.adaptive.level3.net/telecinco/channel6-nogeo/esmediaset12/esmediaset12.m3u8
+  
+ #EXTINF:-1,TELECINCO
+ http://telecinco-channel7-nogeo.hls.adaptive.level3.net/telecinco/channel7-nogeo/esmediaset21/bitrate_1.m3u8
+  
+ #EXTINF:-1,LA SEXTA
+ rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live  playpath=stream-lasexta_1  swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nocache=200  live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
+  
+ #EXTINF:-1,LA SIETE
+ rtmp://$OPT:rtmp-raw=rtmp://5.63.149.252/live playpath=lasiete7?id=6266  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/lasiete7/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,NUEVE
+ rtmp://$OPT:rtmp-raw=rtmp://185.2.138.108/live  playpath=lanuevetvroja?id=5969  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/lanuevetvroja/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,CANAL+ 1
+ rtmp://$OPT:rtmp-raw=rtmp://149.255.37.163/stream  playpath=ccplushd?id=108856  swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1  pageUrl=http://www.liveflash.tv/embedplayer/ccplushd/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,CANAL+ 1 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=plus088ed8611f5cac7c746cc31383547313  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=plus&w=650&h=400
+  
+ #EXTINF:-1,CANAL+ 2 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=plus2d83de59e10227072a9c034ce10029c39  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=plus2&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,CANAL+ XTRA 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=canal-xtra-verlatelegratis-comcfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=canal-xtra-verlatelegratis-com&w=650&h=400
+  
+ #EXTINF:-1,C+ ACCIÃ“N
+ rtmp://$OPT:rtmp-raw=rtmp://173.193.205.94/live  playpath=ppaccion?id=58597  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/ppaccion/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,C+ ACCIÃ“N
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=accioncfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=accion&w=650&h=400
+  
+ #EXTINF:-1,C+ COMEDIA 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=pluscomedia42d6c7d61481d1c21bd1635f59edae05  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=pluscomedia&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,C+ DCINE 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=dcine_verlatelegratis-comcfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php conn=S:OK --live
+  
+ #EXTINF:-1,HOLLYWOOD 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=hollywood4a3050ae2c77da4f9c90e2e58e8e520f  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=hollywood&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,CALLE 13
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=calle13-verlatelegratis-comcfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=calle13-verlatelegratis-com&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,SYFY 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=sysf1_lacajatv_escfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=sysf1_lacajatv_es&w=670&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,SYFY
+ rtmp://$OPT:rtmp-raw=rtmp://159.253.143.20/stream  playpath=iniciohd?id=108855  swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1  pageUrl=http://www.liveflash.tv/embedplayer/iniciohd/1/650/400 Conn=S:OK  --live
+  
+ #EXTINF:-1,XTRM
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=xtrem452e91de642a8e9c43121664d5d3c05c  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=xtrem&w=650&h=400  conn=S:OK --live
+  
+ ALX 
+ rtmp://$OPT:rtmp-raw=rtmp://edge1.video.vaughnsoft.net:443/live  playpath=live_alx_nxtv  swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf live=1  pageUrl=http://vaughnlive.tv/embed/video/alx_nxtv?viewers=true&watermark=right&autoplay=false
+  
+ #EXTINF:-1,PARAMOUNT COMEDY
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=paramondcomedy2a1e0f8fae30c9626f94bbadcc53d3e4  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=paramondcomedy&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,FOX
+ rtmp://$OPT:rtmp-raw=rtmp://46.23.64.108/live playpath=fffoxhd?id=10482  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/fffoxhd/1/650/400 Conn=S:OK --live
+  
+ #EXTINF:-1,FOX 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=foxf93899894f2c43279dc0013b9ad2849d  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=fox&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,FOX CRIME 
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=foxcrimend23841cbc5fe43089368c1dc9dbbf4b0  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=foxcrimen&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,TNT
+ rtmp://$OPT:rtmp-raw=rtmp://5.63.145.188/live playpath=ttttnthd?id=10483  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/ttttnthd/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,TNT
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=f7177163c833dff4b38fc8d2872f1ec6  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=tnt_lacajatv_es&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,NEOX
+ rtmp://$OPT:rtmp-raw=rtmp://146.185.25.228/live  playpath=nneoxhd?id=10480  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/nneoxhd/1/650/400 conn=S:OK --live
+  
+ #EXTINF:-1,NEOX
+ rtmp://$OPT:rtmp-raw=rtmp://173.193.223.184/stream  playpath=neox_lacajatv_es?id=105600  swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1  pageUrl=http://www.liveflash.tv/embedplayer/neox_lacajatv_es/1/720/440  conn=S:OK --live
+  
+ #EXTINF:-1,FACTORÃA DE FICCIÃ“N
+ rtmp://$OPT:rtmp-raw=rtmp://146.185.25.228/live  playpath=fffdfhd?id=10481  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/fffdfhd/1/650/400 conn=S:OK --live
+  
+ #EXTINF:-1,FACTORÃA DE FICCIÃ“N
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=fdf-lacajatv-escfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=fdf-lacajatv-es&w=650&h=400
+  
+ #EXTINF:-1,AXN
+ rtmp://$OPT:rtmp-raw=rtmp://109.123.116.76/live  playpath=aaaxnhd?id=58605  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/aaaxnhd/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,AXN
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=ac627ab1ccbdb62ec96e702f07f6425b  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=axn_stremingtotaltv_com&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,NOVA
+ rtmp://$OPT:rtmp-raw=rtmp://5.63.149.252/live playpath=novanuevo?id=9046  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/novanuevo/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,NOVA
+ rtmp://$OPT:rtmp-raw=rtmp://live.streamingplus.mobi:1935/live/  playpath=nova  swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1  pageUrl=http://streamingplus.mobi/embed.php?n=nova&vw=650&vh=400&domain=www.pontucanal.net  conn=S:OK --live
+  
+ #EXTINF:-1,COSMOPOLITAN
+ rtmp://$OPT:rtmp-raw=rtmp://149.255.34.122/live  playpath=cosmo11?id=183445  swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1  pageUrl=http://mips.tv/embedplayer/cosmo11/1/650/400 Conn=S:OK --live
+  
+ #EXTINF:-1,DIVINITY
+ rtmp://$OPT:rtmp-raw=rtmp://185.2.138.108/live  playpath=lacuatrotvrojadirecta?id=5971  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/lacuatrotvrojadirecta/1/650/400  conn=S:OK --live
+  
+ #EXTINF:-1,DIVINITY
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=divinitycfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=divinity&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,NITRO
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=c4ca4238a0b923820dcc509a6f75849b  swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=nitros_verlatelegratis_com&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,ENERGY
+ rtmp://$OPT:rtmp-raw=rtmp://109.123.116.76/live  playpath=eeenergyhd?id=58556  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/eeenergyhd/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,ENERGY 
+ rtmp://$OPT:rtmp-raw=rtmp://streaming.freelivetv.tv:1935/live  playpath=2838023a778dfaecdc212708f721b788  swfUrl=http://freelivetv.tv/embed/reproductor.php?o=1 live=1  pageUrl=http://freelivetv.tv/embed/embed.php?channel=energy&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,EVENTOS ATRESMEDIA
+ rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live  playpath=stream-eventos6_1  swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200  pageUrl=http://www.atresplayer.com/directos/television
+  
+ #EXTINF:-1,BIO
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=bio-cajatv-escfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php conn=S:OK --live
+  
+ #EXTINF:-1,DISCOVERY CHANNEL
+ rtmp://$OPT:rtmp-raw=rtmp://185.2.138.108/live  playpath=discoverynuevo?id=8521  swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1  pageUrl=http://www.ezcast.tv/embedded/discoverynuevo/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,DISCOVERY CHANNEL
+ rtmp://$OPT:rtmp-raw=rtmp://live.streamingplus.mobi:1935/live/  playpath=discoverychannel  swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1  pageUrl=http://streamingplus.mobi/embed.php?n=discoverychannel&vw=650&vh=400
+  
+ #EXTINF:-1,DISCOVERY MAX
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=dmaxcfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=dmax&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,DISCOVERY MAX (YUKONS)
+ rtmp://$OPT:rtmp-raw=rtmp://198.144.153.145:443/kuyo  playpath=dddmax?id=7a44c281639030f3b65a29385adf4978&pid=39342e31322e36382e323331  swfUrl=http://yukons.net/yplay.swf live=1  pageUrl=http://yukons.net/embed/363436343634364436313738/456e6212d971e317c546475a30bed04e/650/400
+  
+ #EXTINF:-1,NATIONAL GEOGRAPHIC
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=natgeocfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=natgeo&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,NAT GEO WILD (YUKONS)
+ rtmp://$OPT:rtmp-raw=rtmp://198.144.153.140:443/kuyo  playpath=queosjodan?id=7a44c281639030f3b65a29385adf4978&pid=39342e31322e36382e323331  swfUrl=http://yukons.net/yplay.swf live=1  pageUrl=http://yukons.net/embed/3731373536353646373336413646363436313645/13af3e27b1fd50a5688e0188e9d5872d/650/400
+  
+ #EXTINF:-1,HISTORIA (YUKONS)
+ rtmp://$OPT:rtmp-raw=rtmp://198.144.153.144:443/kuyo  playpath=historia?id=7a44c281639030f3b65a29385adf4978&pid=39342e31322e36382e323331  swfUrl=http://yukons.net/yplay.swf live=1  pageUrl=http://yukons.net/embed/36383639373337343646373236393631/d018fc5a9d7c8f9763e773b96e793b85/670/400
+  
+ #EXTINF:-1,XPLORA
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=xplora9a272d1584c996b6ee21126e2937575f  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=xplora&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,ODISEA
+ rtmp://$OPT:rtmp-raw=rtmp://94.102.56.186/zecastEd playpath=odiodi  swfUrl=http://zecast.tv/swfs/player.swf live=1  pageUrl=http://zecast.tv/embed.php?file=odiodi&width=650&height=400
+  
+ #EXTINF:-1,CAZA Y PESCA
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=c16a5320fa475530d9583c34fd356ef5  swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=caza_verlatelegratis_com&w=650&h=400  Conn=S:OK --live
+  
+ #EXTINF:-1,VIAJAR (YUKONS)
+ rtmp://$OPT:rtmp-raw=rtmp://198.144.153.144:443/kuyo  playpath=osjodeis2?id=7a44c281639030f3b65a29385adf4978&pid=39342e31322e36382e323331  swfUrl=http://yukons.net/yplay.swf live=1  pageUrl=http://yukons.net/embed/364637333641364636343635363937333332/c432d1d723db67690eb33226e14c6c40/670/400  conn=S:OK --live
+  
+ #EXTINF:-1,CANAL COCINA (YUKONS)
+ rtmp://$OPT:rtmp-raw=rtmp://198.144.153.140:443/kuyo  playpath=osjodeisbien?id=7a44c281639030f3b65a29385adf4978&pid=39342e31322e36382e323331  swfUrl=http://yukons.net/yplay.swf live=1  pageUrl=http://yukons.net/embed/364637333641364636343635363937333632363936353645/deaf73213f49c1eab76ba6573b1ef90c/650/400  conn=S:OK --live
+  
+ #EXTINF:-1,HOGAR UTIL
+ http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB
+  
+ #EXTINF:-1,EURONEWS
+ rtmp://$OPT:rtmp-raw=rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive/es_video750_rtp.sdp
+  
+ #EXTINF:-1,GOL TV
+ rtmp://$OPT:rtmp-raw=rtmp://173.193.205.94/live  playpath=golnuevo?id=56976  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/golnuevo/1/650/400 Conn=S:OK  --live
+  
+ #EXTINF:-1,GOL TV
+ rtmp://$OPT:rtmp-raw=rtmp://go.fasts.tv/fasts playpath=vipracing76  swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=1  pageUrl=http://www.fasts.tv/embedplayer.php  token=#ed%h0#w18723jdsahjkDHF
+  
+ #EXTINF:-1,GOL TV
+ rtmp://$OPT:rtmp-raw=rtmp://ams.premiumcdnlive.com/iguidenl  playpath=1r1a1q1m3sksn23  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf  live=1  pageUrl=http://www.iguide.to/embedplayer_nl.php?width=653&height=380&channel=6975&autoplay=true  token=#ed%h0#w18623jsda6523lDGDve
+  
+ #EXTINF:-1,CANAL+ LIGA
+ rtmp://$OPT:rtmp-raw=rtmp://5.63.151.44/stream  playpath=cacadevacal?id=107981  swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1  pageUrl=http://www.liveflash.tv/embedplayer/cacadevacal/1/645/395  Conn=S:OK --live
+  
+ #EXTINF:-1,CANAL+ LIGA
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=ligahd-verlatelegratis-comcfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=ligahd-verlatelegratis-com&w=650&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,C+ FUTBOL
+ rtmp://$OPT:rtmp-raw=rtmp://62.212.72.193/stream  playpath=plusfutboldire?id=105041  swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1  pageUrl=http://www.liveflash.tv/embedplayer/plusfutboldire/1/650/400  conn=S:OK --live
+  
+ #EXTINF:-1,C+ FUTBOL
+ rtmp://$OPT:rtmp-raw=rtmp://174.37.222.57/live  playpath=carapapelf?id=57973  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/carapapelf/1/645/395 Conn=S:OK  --live
+  
+ #EXTINF:-1,C+ LCAMPEONES
+ rtmp://$OPT:rtmp-raw=rtmp://109.123.126.66/live  playpath=carapapellc?id=57971  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/carapapellc/1/645/395 Conn=S:OK  --live
+  
+ #EXTINF:-1,C+ LCAMPEONES
+ rtmp://$OPT:rtmp-raw=rtmp://109.123.116.76/live  playpath=llcampe?id=58606  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/llcampe/1/650/400 Conn=S:OK  --live
+  
+ #EXTINF:-1,C+ LCAMPEONES
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=lcampeonescfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=lcampeones&w=650&h=400
+  
+ #EXTINF:-1,C+ DEPORTES
+ rtmp://$OPT:rtmp-raw=rtmp://5.63.150.76/live  playpath=pddeportes?id=58596  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/pddeportes/1/650/400 Conn=S:OK  --live
+  
+ #EXTINF:-1,SPORTMANIA
+ rtmp://$OPT:rtmp-raw=rtmp://5.63.150.76/live  playpath=putasmierdass?id=57702  swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1  pageUrl=http://www.ucaster.eu/embedded/putasmierdass/1/645/395 Conn=S:OK  --live
+  
+ #EXTINF:-1,SPORTMANIA
+ rtmp://$OPT:rtmp-raw=rtmp://live.flashstreaming.mobi:1935/live  playpath=sportmania-lacajatv-escfcd208495d565ef66e7dff9f98764da  swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1  pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=sportmania-lacajatv-es&w=670&h=400  conn=S:OK --live
+  
+ #EXTINF:-1,TELEDEPORTE
+ rtmp://$OPT:rtmp-raw=rtmp://109.123.114.218/stream  playpath=teledeportelive?id=99872  swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1  pageUrl=http://www.liveflash.tv/embedplayer/teledeportelive/1/650/400  conn=S:OK --live
+  
+ #EXTINF:-1,BEIN SPORT Åƒ
+ rtmp://$OPT:rtmp-raw=rtmpe://live.univisionbrazil.com/stream  playpath=z00021.live swfUrl=http://freelivetv.tv/embed/noreproductor.php  live=1  pageUrl=http://freelivetv.tv/embed/embedmobil.php?n=z00021&w=650&h=400
+  
+ #EXTINF:-1,SKY SPORTS 1
+ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/ss1x pageUrl=http://www.reyhq.com/embed1.php
+  
+ #EXTINF:-1,SKY SPORTS 1
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/desi1.stream  pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450  token=%X886(nPK@#.
+  
+ #EXTINF:-1,SKY SPORTS 2
+ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:443/live playpath=ss2  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live
+  
+ #EXTINF:-1,SKY SPORTS 2
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/desi2.stream  pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450  token=%X886(nPK@#.
+  
+ #EXTINF:-1,SKY SPORTS 3
+ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:443/live playpath=ss3  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live
+  
+ #EXTINF:-1,SKY SPORTS 3
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/desi3.stream  pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450  token=%X886(nPK@#.
+  
+ #EXTINF:-1,SKY SPORTS 4
+ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:443/live playpath=ss4  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live
+  
+ #EXTINF:-1,SKY SPORTS 4
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/des4.stream  pageUrl=http://sportsembed.com/embed.php?v=&vw=600vh=450  token=%X886(nPK@#.
+  
+ #EXTINF:-1,SKY SPORTS F1
+ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:443/live playpath=f1x  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490  conn=S:OK --live
+  
+ #EXTINF:-1,SKY SPORTS NEWS
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/skysnews.stream  pageUrl=http://sportsembed.com/embed.php?v=&vw=600vh=450  token=%X886(nPK@#.
+  
+ #EXTINF:-1,BT SPORT 1
+ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live playpath=btxx1  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490  conn=S:OK --live
+  
+ #EXTINF:-1,BT SPORT 2
+ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live playpath=bt2x  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490  conn=S:OK --live
+  
+ #EXTINF:-1,ESPN UK
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=espntv.stream  swfUrl=http://141.8.247.250/player/player.swf live=1  pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.
+  
+ #EXTINF:-1,EUROSPORT
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=euros1.stream  swfUrl=http://141.8.247.250/player/player.swf live=1  pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.
+  
+ #EXTINF:-1,EUROSPORT 2
+ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=euroo2.stream  swfUrl=http://141.8.247.250/player/player.swf live=1  pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.
+  
+ #EXTINF:-1,NBA TV
+ rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/W3h4q9Z6.stream  swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15  swfVfy=1
+  
+ #EXTINF:-1,SHOWTIME MOVIES HD 
+ rtmp://$OPT:rtmp-raw=rtmp://ny.premiumcdnlive.com/edge  playpath=bwbop58ixz281wv  swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1  pageUrl=http://www.ilive.to/view/44126/watch-live-Showtime_Movie_channel-streaming-channel-for-free  token=I8772LDKksadhGHGagf#
+  
+ #EXTINF:-1,FOX MOVIES CHANNEL HD 
+ rtmp://$OPT:rtmp-raw=rtmp://ny.premiumcdnlive.com/edge  playpath=hc992q7x7cz86t9  swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1  pageUrl=http://www.ilive.to/view/38449/watch-live-Fox_Movie_Channel-streaming-channel-for-free  token=I8772LDKksadhGHGagf#
+  
+ #EXTINF:-1,HBO LIVE STREAMING 
+ rtmp://$OPT:rtmp-raw=rtmp://ny.premiumcdnlive.com/edge  playpath=z28ie9oqoku4qoy  swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1  pageUrl=http://www.ilive.to/view/36674/watch-live-HBO_live_stream_online-streaming-channel-for-free  token=I8772LDKksadhGHGagf#
+  
+ #EXTINF:-1,HBO COMEDY MOVIES 
+ rtmp://$OPT:rtmp-raw=rtmp://ny.premiumcdnlive.com/edge  playpath=a1wn1j3ra1w0cv0  swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1  pageUrl=http://www.ilive.to/view/38214/watch-live-HBO_Comedy_movie-streaming-channel-for-free  token=I8772LDKksadhGHGagf#
+  
+ #EXTINF:-1,STARZ MOVIES 
+ rtmp://$OPT:rtmp-raw=rtmp://ny.premiumcdnlive.com/edge  playpath=8g7x80ozu6hz2ds  swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1  pageUrl=http://www.ilive.to/view/38366/watch-live-StarZ_movie_channel-streaming-channel-for-free  token=I8772LDKksadhGHGagf#
+  
+ #EXTINF:-1,HBO PLUS (LATINO)
+ rtmp://$OPT:rtmp-raw=rtmp://95.211.148.203/live  playpath=canalplanet2?id=173816  swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1  pageUrl=http://mips.tv/embedplayer/canalplanet2/1/650/400 conn=S:OK  --live
+  
+ #EXTINF:-1,UNIVERSAL (LATINO)
+ rtmp://$OPT:rtmp-raw=rtmp://204.45.157.234/flash playpath=16006  swfUrl=http://static2.sawlive.tv/player.swf live=1  pageUrl=http://sawlive.tv/embed/watch/MmUyNWE2YzNjYTdlOmQ2NmU2OTc2NjU3MjczNjE2Yzc0NzY6YzZjYTE3Y2ZkZDdlMG/FiNDE4NzQ3ZTI3ZDBiODBlZmVhMWNmOGM0ZDo4OGU1MzcxNjU1MzM4MzU2NzhhYzQ3NDA2M2ExNGU5ZA__
+  
+ #EXTINF:-1,CINE CANAL (LATINO)
+ rtmp://$OPT:rtmp-raw=rtmpe://50.7.28.130/app playpath=16350  swfUrl=http://udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.shidurlive.com/stream/4e6d4d324d5463304e6a6b325a545a6d4e6d51325a6a63324e6a6b324e546334/bc4b4d8e1a36
